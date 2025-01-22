@@ -5,6 +5,7 @@ def get_absolute_path():
 # Function to calculate the absolute path manually
 
     # Get the current file path using __file__
+    current_path = __file__
 
     # Get the current working directory
     current_directory = sys.path[0]
