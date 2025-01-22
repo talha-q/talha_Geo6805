@@ -1,4 +1,6 @@
 import sys
+
+#webpage edit
 def get_absolute_path():
 # Function to calculate the absolute path manually
 
